@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container1{
+    width: 80%;
+    margin:auto;
+}
+.caixa-1{
+    width: 68%;
+    margin: auto;
+}
+
+.imagem {
+    border: 2px solid whitesmoke;
+    background-color: white;
+    margin-top: 2rem;
+}
+
+.logo{
+    width: 15rem;
+    margin: 0px 30%;
+
+}
+.perfil{
+    width: 8rem;
+    margin: 0px 40%;
+    clip-path: circle();
+
+}
+.keep-one{
+    background-color: #419ce2;
+    color: white;
+    padding: 8px;
+    border-radius: 0.3rem;
+}
+.remove{
+    color:  #419ce2;
+}
+/*------------------------------------------------------------*/
+.caixa{
+    width: 15rem;
+    margin: 1.5rem 30%;
+    text-align: center;
+    font-family: sans-serif;
+    height: 4rem;
+}
+.caixa p a{
+    text-decoration: none;
+
+}
+.caixa p{
+    margin-top:1rem;
+}
+.caixa-2{
+    border: 2px solid whitesmoke;
+    margin: auto;
+    margin-top: 0.8rem;
+    height: 5rem;
+    background-color: white;
+}
+.texto p{
+    text-align: center;
+    margin-left: 3rem;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 4px;
+}
+.sub-caixa{
+    width: 40%;
+    margin-left: 11.1rem;
+}
+.sub-caixa span a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color:  #419ce2;
+}
+/*---------------------------------*/
+.get{
+    margin-top: 1rem;
+}
+.get p {
+    margin-bottom: 1rem ;
+    width:30%;
+    margin-left: 11.5rem;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/*--------------------IMAGEM--------*/
+.app{
+    display:flex;
+}
+.app .app2{
+    width: 20rem;
+    height: 4rem;
+    margin-left: 0.5rem;
+}
+.app .app3{
+    width: 20rem;
+    height: 6rem;
+    margin-top: -1rem;
+}
