@@ -2,13 +2,27 @@
     padding: 0;
     margin: 0;
 }
+/*_---------------Phone-----------*/
+.phone{
+    width: 60%;
+    margin: auto;
+    margin-right: 1rem;
+}
+.phone img{
+    background-color: white;
+    width: 33rem;
+    height: 40rem;
+    margin-left: 3rem;
+
+}
+/*_---------------Phone-----------*/
 
 .container1{
     width: 80%;
-    margin:auto;
+    display: flex;
 }
 .caixa-1{
-    width: 68%;
+    width: 36%;
     margin: auto;
 }
 
@@ -19,15 +33,14 @@
 }
 
 .logo{
-    width: 15rem;
-    margin: 0px 30%;
+    width: 11rem;
+    margin: 0px 16%;
 
 }
 .perfil{
-    width: 8rem;
-    margin: 0px 40%;
+    width: 6rem;
+    margin: 0px 30%;
     clip-path: circle();
-
 }
 .keep-one{
     background-color: #419ce2;
@@ -40,11 +53,12 @@
 }
 /*------------------------------------------------------------*/
 .caixa{
-    width: 15rem;
-    margin: 1.5rem 30%;
+    width: 13rem;
+    margin: 1.5rem 12%;
     text-align: center;
     font-family: sans-serif;
-    height: 4rem;
+    height: 3rem;
+
 }
 .caixa p a{
     text-decoration: none;
@@ -57,20 +71,19 @@
     border: 2px solid whitesmoke;
     margin: auto;
     margin-top: 0.8rem;
-    height: 5rem;
+    height: 4rem;
     background-color: white;
 }
 .texto p{
     text-align: center;
-    margin-left: 3rem;
-    font-size: 15px;
+    font-size: 14px;
     font-family: sans-serif;
     margin-top: 1rem;
     margin-bottom: 4px;
 }
 .sub-caixa{
-    width: 40%;
-    margin-left: 11.1rem;
+    width: 70%;
+    margin: auto;
 }
 .sub-caixa span a {
     text-decoration: none;
@@ -84,8 +97,6 @@
 }
 .get p {
     margin-bottom: 1rem ;
-    width:30%;
-    margin-left: 11.5rem;
     text-align: center;
     font-family: sans-serif;
 }
@@ -95,12 +106,12 @@
     display:flex;
 }
 .app .app2{
-    width: 20rem;
-    height: 4rem;
-    margin-left: 0.5rem;
+    width: 6rem;
+    height: 2rem;
+    margin-left: 1.5rem;
 }
 .app .app3{
-    width: 20rem;
-    height: 6rem;
-    margin-top: -1rem;
+    width: 6rem;
+    height: 2rem;
+    margin-left: 1.5rem;
 }
